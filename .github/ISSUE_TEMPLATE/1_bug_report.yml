@@ -46,6 +46,10 @@ body:
       description: 请提供一个清晰且简洁的问题描述，若上述选项为`Other`，也请详细说明。
     validations:
       required: true
+  - type: input
+    attributes:
+      label: '💬 对话分享链接'
+      description: 如果要反馈工具调用类问题，请附带相关对话的分享链接
   - type: textarea
     attributes:
       label: '📷 复现步骤'
