@@ -1,6 +1,7 @@
 services:
   ds2api:
-    image: ghcr.io/ouqiting/ds2api:latest
+    # image: ghcr.io/ouqiting/ds2api:latest
+    image: ouqiting/ds2api:latest
     container_name: ds2api
     restart: always
     user: "0:0"
