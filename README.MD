@@ -6,7 +6,7 @@
 
 ## 注：本项目由原作者版本([CJackHwang/ds2api](https://github.com/CJackHwang/ds2api)) 二次开发而来。原仓库现已归档
 
-### [重要]本项目将在48小时后转为私密仓库，详细请阅读#21
+### [重要]本项目将在8月15号21点转为私密仓库，详细请阅读[#21](https://github.com/ouqiting/ds2api/issues/21)
 
 
 <a href="https://trendshift.io/repositories/24508" target="_blank"><img src="https://trendshift.io/api/badge/repositories/24508" alt="CJackHwang%2Fds2api | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
